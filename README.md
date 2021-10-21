@@ -6,7 +6,7 @@
 
 1. 先在ios上下载Scriptable软件
 
-2. buaaCheck.js添加到Scritable内
+2. buaaCheck.js添加到Scriptable内
 
 <img width="150"  src="assets/IMG_4358.jpg"/>
 
